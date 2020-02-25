@@ -1,0 +1,16 @@
+{
+  "name": "map-normal",
+  "version": "0.1.0",
+  "description": "",
+  "main": "style.json",
+  "scripts": {
+    "start": "/usr/local/bin/maputnik --watch --file ./style.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nztm/map-normal.git"
+  },
+  "author": {
+    "name": "nztm",
+  }
+}
